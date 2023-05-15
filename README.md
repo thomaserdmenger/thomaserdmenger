@@ -1,6 +1,11 @@
 ### Hi there 👋
 
 <!--
+How to edit this file: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github 
+
+-->
+
+<!--
 **thomaserdmenger/thomaserdmenger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
