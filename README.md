@@ -3,6 +3,9 @@
 <a href="https://github.com/thomaserdmenger">
   <img src="https://komarev.com/ghpvc/?username=thomaserdmenger" alt="page views">
 </a>
+<a href="https://github.com/thomaserdmenger?tab=followers">
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/thomaserdmenger?color=green&logo=github">
+</a>
 
 <!--
 How to edit this file: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github 
