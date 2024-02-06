@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, I'm Thomas 👋
+
+<a href="https://github.com/thomaserdmenger">
+  <img src="https://komarev.com/ghpvc/?username=thomaserdmenger" alt="page views">
+</a>
 
 <!--
 How to edit this file: https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github 
