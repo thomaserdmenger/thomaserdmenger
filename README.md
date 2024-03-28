@@ -40,6 +40,7 @@
 ![VSCode](https://img.shields.io/badge/Visual_Studio-09131B?style=for-the-badge&logo=visual%20studio&logoColor=005BA4)
 ![Git](https://img.shields.io/badge/Git-09131B?style=for-the-badge&logo=git)
 ![Vercel](https://img.shields.io/badge/Vercel-09131B?style=for-the-badge&logo=Vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-09131B?style=for-the-badge&logo=Render&logoColor=white)
 
 <!-- ![Typescript](https://img.shields.io/badge/Typescript-09131B?style=for-the-badge&logo=typescript) -->
 <!-- ![React Native](https://img.shields.io/badge/React_Native-09131B?style=for-the-badge&logo=react&logoColor=61DAFB) -->
