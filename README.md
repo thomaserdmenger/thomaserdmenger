@@ -13,6 +13,10 @@
  <a href="https://portfolio-twpg.onrender.com/" target="blank">
   <img src="https://img.shields.io/badge/Website-3B4247?style=for-the-badge&logo=medium&logoColor=white&bgColor=" alt="Thomas Erdmenger Portfolio" />
  </a>
+
+<br>
+<br>
+ 
 <a href="https://www.linkedin.com/in/thomaserdmenger/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin" />
 </a>
