@@ -10,7 +10,7 @@
 <p>I enjoy solution-oriented and independent work.</p>
 <p>I have extensive leadership and management experience from my previous position as managing director of a real estate company and analytical skills from my work as a social science researcher for many years. I also have a degree in business administration, sociology and journalism.</p>
 
-<br>
+<br> 
 
  <a href="https://portfolio-twpg.onrender.com/" target="blank">
   <img src="https://img.shields.io/badge/Website-3B4247?style=for-the-badge&logo=medium&logoColor=white&bgColor=" alt="Thomas Erdmenger Portfolio" />
