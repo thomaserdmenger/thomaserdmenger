@@ -43,6 +43,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-09131B?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![SASS Badge](https://img.shields.io/badge/Sass-09131B?style=for-the-badge&logo=sass)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-09131B?style=for-the-badge&logo=tailwindcss&)
+![Nodejs](https://img.shields.io/badge/Nodejs-09131B?style=for-the-badge&logo=node.js&logoColor=3C873A)
 ![Markdown](https://img.shields.io/badge/Markdown-09131B?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-09131B?style=for-the-badge&logo=visual%20studio&logoColor=005BA4)
 ![Git](https://img.shields.io/badge/Git-09131B?style=for-the-badge&logo=git)
@@ -52,6 +53,5 @@
 <!-- ![Typescript](https://img.shields.io/badge/Typescript-09131B?style=for-the-badge&logo=typescript) -->
 <!-- ![React Native](https://img.shields.io/badge/React_Native-09131B?style=for-the-badge&logo=react&logoColor=61DAFB) -->
 <!-- ![Next.js](https://img.shields.io/badge/next.js-09131B?style=for-the-badge&logo=nextdotjs&logoColor=white) -->
-<!-- ![Nodejs](https://img.shields.io/badge/Nodejs-09131B?style=for-the-badge&logo=node.js&logoColor=3C873A) -->
 <!-- ![Express.js](https://img.shields.io/badge/Express.js-09131B?style=for-the-badge&logo=express&logoColor=white) -->
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-09131B?style=for-the-badge&logo=mongodb) -->
