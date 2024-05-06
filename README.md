@@ -49,6 +49,8 @@
 ![Markdown](https://img.shields.io/badge/Markdown-09131B?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-09131B?style=for-the-badge&logo=visual%20studio&logoColor=005BA4)
 ![Git](https://img.shields.io/badge/Git-09131B?style=for-the-badge&logo=git)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-09131B?style=for-the-badge&logo=Vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-09131B?style=for-the-badge&logo=Render&logoColor=white)
 
