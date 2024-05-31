@@ -1,4 +1,4 @@
-### Hi there, I'm Thomas 👋
+### Hi there, I'm Thomas 👋 
 
 <p>I've decided to start fresh and follow my long held desire to become a fullstack web developer.</p> 
 <p>Skills & Technologies: ReactJS | JavaScript ES6+ | Tailwind CSS | SASS/SCSS | CSS | HTML | Git | GitHub | Command Line | Node.js. | Express.js | MongoDB </p> 
