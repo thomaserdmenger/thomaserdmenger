@@ -1,8 +1,8 @@
 ### Hi there, I'm Thomas 👋
 
-<p>I've decided to start fresh and follow my long held desire to become a fullstack web developer.</p> 
+<!-- <p>I've decided to start fresh and follow my long held desire to become a fullstack web developer.</p> -->
 <p>Skills & Technologies: ReactJS | JavaScript ES6+ | Tailwind CSS | SASS/SCSS | CSS | HTML | Git | GitHub | Command Line | Node.js. | Express.js | MongoDB </p> 
-<p>Self-motivated autodidactic learning has accompanied me my whole life. It gives me great pleasure. In January 2023 I started learning Frontend Web Development. Since December 2023, I have been attending a Fullstack Web Development Bootcamp at 
+<!-- <p>Self-motivated autodidactic learning has accompanied me my whole life. It gives me great pleasure. In January 2023 I started learning Frontend Web Development. Since December 2023, I have been attending a Fullstack Web Development Bootcamp at 
 <a
   href="https://www.super-code.de/"
   target="_blank"
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Website-3B4247?style=for-the-badge&logo=medium&logoColor=white&bgColor=" alt="Thomas Erdmenger Portfolio" />
  </a>
 
-<br>
+<br> -->
 <br>
 
 <a href="https://github.com/thomaserdmenger" target="_blank">
