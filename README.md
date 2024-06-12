@@ -23,6 +23,7 @@
 <br>
 
 ![React](https://img.shields.io/badge/-React-09131B?style=for-the-badge&logo=react&logoColor=61DBFB)
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Javascript](https://img.shields.io/badge/Javascript-09131B?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/HTML5-09131B?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-09131B?style=for-the-badge&logo=css3&logoColor=1572B6)
