@@ -2,21 +2,6 @@
 
 <!-- <p>I've decided to start fresh and follow my long held desire to become a fullstack web developer.</p> -->
 <p>Skills & Technologies: ReactJS | JavaScript ES6+ | Tailwind CSS | SASS/SCSS | CSS | HTML | Git | GitHub | Command Line | Node.js. | Express.js | MongoDB </p> 
-<!-- <p>Self-motivated autodidactic learning has accompanied me my whole life. It gives me great pleasure. In January 2023 I started learning Frontend Web Development. Since December 2023, I have been attending a Fullstack Web Development Bootcamp at 
-<a
-  href="https://www.super-code.de/"
-  target="_blank"
-  >SuperCode</a>, which I will finish at the end of June 2024.</p>
-<p>I enjoy solution-oriented and independent work.</p>
-<p>I have extensive leadership and management experience from my previous position as managing director of a real estate company and analytical skills from my work as a social science researcher for many years. I also have a degree in business administration, sociology and journalism.</p>
-
-<br> 
-
- <a href="https://portfolio-twpg.onrender.com/" target="blank">
-  <img src="https://img.shields.io/badge/Website-3B4247?style=for-the-badge&logo=medium&logoColor=white&bgColor=" alt="Thomas Erdmenger Portfolio" />
- </a>
-
-<br> -->
 <br>
 
 <a href="https://github.com/thomaserdmenger" target="_blank">
