@@ -29,7 +29,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-09131B?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![SASS Badge](https://img.shields.io/badge/Sass-09131B?style=for-the-badge&logo=sass)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-09131B?style=for-the-badge&logo=tailwindcss&)
-![Material-UI](https://img.shields.io/badge/Material--UI-blue?style=for-the-badge&logo=Material-UI&logoColor=white)
+![Material-UI](https://img.shields.io/badge/Material--UI-09131B?style=for-the-badge&logo=Material-UI&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-09131B?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-09131B?style=for-the-badge&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-09131B?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-09131B?style=for-the-badge&logo=mongodb)
@@ -41,7 +42,6 @@
 ![Figma](https://img.shields.io/badge/figma-09131B?style=for-the-badge&logo=figma&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-09131B?style=for-the-badge&logo=Vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-09131B?style=for-the-badge&logo=Render&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 <!-- ![Typescript](https://img.shields.io/badge/Typescript-09131B?style=for-the-badge&logo=typescript) -->
 <!-- ![React Native](https://img.shields.io/badge/React_Native-09131B?style=for-the-badge&logo=react&logoColor=61DAFB) -->
 <!-- ![Next.js](https://img.shields.io/badge/next.js-09131B?style=for-the-badge&logo=nextdotjs&logoColor=white) -->
