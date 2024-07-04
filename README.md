@@ -29,7 +29,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-09131B?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![SASS Badge](https://img.shields.io/badge/Sass-09131B?style=for-the-badge&logo=sass)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-09131B?style=for-the-badge&logo=tailwindcss&)
-![Material-UI](https://img.shields.io/badge/Material-UI-black?style=for-the-badge&logo=Mui&logoColor=%230081CB)
+![Material-UI](https://img.shields.io/badge/MUI-black?style=for-the-badge&logo=Mui&logoColor=%230081CB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-09131B?style=for-the-badge&logo=TailwindCSS&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/Nodejs-09131B?style=for-the-badge&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-09131B?style=for-the-badge&logo=express&logoColor=white)
