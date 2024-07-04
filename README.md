@@ -32,6 +32,7 @@
 ![Nodejs](https://img.shields.io/badge/Nodejs-09131B?style=for-the-badge&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-09131B?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-09131B?style=for-the-badge&logo=mongodb)
+![Mongoose](https://img.shields.io/badge/Mongoose-black?style=for-the-badge&logo=Mongoose&logoColor=%23880000)
 ![Markdown](https://img.shields.io/badge/Markdown-09131B?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-09131B?style=for-the-badge&logo=visual%20studio&logoColor=005BA4)
 ![Git](https://img.shields.io/badge/Git-09131B?style=for-the-badge&logo=git)
